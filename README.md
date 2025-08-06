@@ -58,7 +58,7 @@
 
 - 💬 [DM on Twitter](https://x.com/SR1606_)
 - 🌐 [Portfolio Website]("coming soon")
-- 📩 winter[at]protonmail[dot]com
+- 📩 reddysurya2016@gmail.com
 
 ---
 
