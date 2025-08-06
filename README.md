@@ -11,8 +11,8 @@
 
 <!-- badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=winterhandle&style=flat-square&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/winterhandle?label=Follow&style=social" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Surya-R-16&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Surya-R-16?label=Follow&style=social" alt="GitHub followers"/>
 </p>
 
 ---
@@ -56,14 +56,14 @@
 
 ### 📫 Reach Me
 
-- 💬 [DM on Twitter](https://twitter.com/yourhandle)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 💬 [DM on Twitter](https://x.com/SR1606_)
+- 🌐 [Portfolio Website]("coming soon")
 - 📩 winter[at]protonmail[dot]com
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winterhandle&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-R-16&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
   <i>Always building. Always learning. Always shipping.</i>
 </p>
