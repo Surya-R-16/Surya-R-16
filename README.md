@@ -1,6 +1,6 @@
 ---
 <!-- header section -->
-<h1 align="center">Hey, I'm Winter 👋</h1>
+<h1 align="center">Hey, I'm Surya 👋</h1>
 
 <p align="center">
   Data scientist · Builder · Explorer of weird side projects<br/>
