@@ -3,7 +3,7 @@
 """
 @author: Surya
 @status: Always shipping 🚢
-@location: Chennai, IN
+@location: India
 """
 
 class Developer:
