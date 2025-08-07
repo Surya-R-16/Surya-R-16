@@ -1,76 +1,62 @@
----
-<!-- header section -->
-<h1 align="center">Hey, I'm Surya 👋</h1>
+```python
+#!/usr/bin/env python3
+"""
+@author: Surya
+@status: Always shipping 🚢
+@location: Chennai, IN
+"""
 
-<p align="center">
-  Data scientist · Builder · Explorer of weird side projects<br/>
-  <i>Curious mind meets clean code</i>
-</p>
+class Developer:
+    def __init__(self):
+        self.name = "Surya"
+        self.role = "Data Scientist | AI Builder"
+        self.stack = ["Python", "PyTorch", "LangChain", "FastAPI"]
+        
+    def current_projects(self):
+        return [
+            "🤖 Multi-agent AI systems",
+            "📄 Document intelligence tools", 
+            "🎥 Automated content pipelines",
+            "📈 Trading pattern recognition"
+        ]
+    
+    def contact(self):
+        return {
+            "twitter": "@SR1606_",
+            "email": "reddysurya2016@gmail.com"
+        }
 
----
+# Initialize
+dev = Developer()
+print(f"👋 {dev.name} is online and building cool stuff...")
+```
 
-<!-- badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surya-R-16&style=flat-square&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Surya-R-16?label=Follow&style=social" alt="GitHub followers"/>
-</p>
+```bash
+$ whoami
+surya
 
----
+$ ls current_focus/
+multi_agent_systems/    doc_intelligence/    
+content_automation/     trading_alerts/
 
-### 🧠 What I Do
+$ cat philosophy.txt
+Code + Coffee + Curiosity = Magic ✨
 
-- Building agentic AI systems & automation tools
-- Reverse engineering doc formats & generating structured layouts
-- Tinkering with open-source LLMs, PDF parsers, image models
-- Experimenting with generative video/music content
-
----
-
-### 🛠️ Stack Highlights
-
-- **Languages:** Python · JavaScript · Bash · SQL
-- **AI/ML:** PyTorch · HuggingFace · OpenAI · LangChain
-- **Tools:** Streamlit · FastAPI · Pandas · NumPy · Jupyter
-- **Infra:** GCP · Docker · Git · Linux · VSCode
-- **Other:** Quadient · Assentis · SmolDocling · VEO · YOLOv8
-
----
-
-### 🎯 Current Focus
-
-- 🔬 Building multi-agent AI systems for code + contract intelligence
-- 🎥 Automating content pipelines (YouTube Shorts, AI video, music)
-- 📈 Creating portfolio-aware trading alert system with pattern recognition
-- 🧠 Exploring frontier AI tools with hands-on tests, not just hype
-
----
-
-### 👾 Side Interests
-
-- Indie hacking, minimal SaaS ideas
-- Biohacking + fitness tracking
-- Visual storytelling via AI
-- Learning Japanese & Mandarin (on/off)
+$ uptime
+Always learning, always shipping
+```
 
 ---
 
-### 📫 Reach Me
+<div align="center">
 
-- 💬 [DM on Twitter](https://x.com/SR1606_)
-- 🌐 [Portfolio Website]("coming soon")
-- 📩 reddysurya2016@gmail.com
+![Coding Stats](https://github-readme-stats.vercel.app/api?username=Surya-R-16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
 
----
+```
+ █▀▀ █▀█ █▀▄ █ █▄█ █▀▀   █▀▀ █▀█ █▀▀ █▀▀ █▀▀ █▀▀ 
+ █▄▄ █▄█ █▄▀ █ █▀█ █▄█   █▄▄ █▄█ █▀  █▀  █▄█ █▄█ 
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-R-16&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <i>Always building. Always learning. Always shipping.</i>
-</p>
+*Currently debugging the universe, one algorithm at a time* 🌌
 
----
-
-<p align="center">
-  ⚡ Powered by curiosity | Fueled by coffee | Obsessed with clean UX
-</p>
-
+</div>
